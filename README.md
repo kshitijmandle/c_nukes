@@ -1,2 +1,2 @@
 # c_nukes
-Mr . Robot
+Mr . Robot (edited on termux)
